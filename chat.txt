@@ -1,0 +1,24 @@
+請把程式碼寫在sketch.js內
+利用ml5.js內的facemesh model功能
+產生編號號碼為409,270,269,267,0,37,39,40,185,61,146,91,181,84,17,314,405,321,375,291
+利用line的指令，畫線，把所有點串接在一起
+線條顏色為紅色，線條粗細為5
+
+---
+
+請問index.html內的內容需要加入那些內容
+(產生錯誤訊息)
+
+---
+
+Uncaught (in promise) TypeError: ml5.facemesh is not a function
+請修正
+
+(它提供了一個網址給我，我連線過去是空的)
+
+---
+
+https://cdnjs.cloudflare.com/ajax/libs/ml5/0.6.0/ml5.min.js
+已經沒有這個檔案，請修正
+
+---
